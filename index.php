@@ -11,7 +11,14 @@ include 'header.php'?>
         <div class="carousel__slide">
             <div class="carousel__slideBg"></div>
             <div class="carousel__slideContent">
-                <span>Best Indian Stones</span>
+                <span> Indian Stones</span>
+                <!-- <a class="button" href="https://unsplash.com/@scoutthecity" target="/black">Know More</a> -->
+            </div>
+        </div>
+        <div class="carousel__slide">
+            <div class="carousel__slideBg"></div>
+            <div class="carousel__slideContent">
+                <span> Plastic Granuals</span>
                 <!-- <a class="button" href="https://unsplash.com/@scoutthecity" target="/black">Know More</a> -->
             </div>
         </div>
@@ -19,28 +26,21 @@ include 'header.php'?>
         <div class="carousel__slide">
             <div class="carousel__slideBg"></div>
             <div class="carousel__slideContent">
-                <span>Best Plastic</span>
+                <span> Peebles</span>
                 <!--   <a class="button" href="https://unsplash.com/@mariocalvo" target="/black">Know More</a>  -->
             </div>
         </div>
         <div class="carousel__slide">
             <div class="carousel__slideBg"></div>
             <div class="carousel__slideContent">
-                <span>Best Peebles</span>
-                <!--   <a class="button" href="https://unsplash.com/@mariocalvo" target="/black">Know More</a>  -->
-            </div>
-        </div>
-        <div class="carousel__slide">
-            <div class="carousel__slideBg"></div>
-            <div class="carousel__slideContent">
-                <span>Best Grains</span>
+                <span>Variety of Grains</span>
                 <!--  <a class="button" href="https://unsplash.com/@mariocalvo" target="/black">Know More</a>  -->
             </div>
         </div>
         <div class="carousel__slide">
             <div class="carousel__slideBg"></div>
             <div class="carousel__slideContent">
-                <span>Best Marble</span>
+                <span> Marble</span>
                 <!--   <a class="button" href="https://unsplash.com/@mariocalvo" target="/black">Know More</a>  -->
             </div>
         </div>
@@ -54,7 +54,7 @@ include 'header.php'?>
         <div class="carousel__slide">
             <div class="carousel__slideBg"></div>
             <div class="carousel__slideContent">
-                <span>Best Millet</span>
+                <span>Farm Millet</span>
                 <!--   <a class="button" href="https://unsplash.com/@mariocalvo" target="/black">Know More</a>  -->
             </div>
         </div>
@@ -75,8 +75,8 @@ include 'header.php'?>
         <div class="carousel__slide">
             <div class="carousel__slideBg"></div>
             <div class="carousel__slideContent">
-                <span>Best Indian Granite</span>
-                <!-- <a class="button" href="https://unsplash.com/@scoutthecity" target="/black">Know More</a> -->
+                <span>Best Granite</span>
+                <!--   <a class="button" href="https://unsplash.com/@mariocalvo" target="/black">Know More</a>  -->
             </div>
         </div>
     </div>
@@ -238,7 +238,7 @@ include 'header.php'?>
                 </div>
                 <div class="rice_desc">
                     <p>Millet (Bajra)</p>
-                    <a href="./grains.php">More Details</a>
+                    <a href="./grains.php#bajra">More Details</a>
                 </div>
             </div>
             <div class="rice_items" id="pee1">
