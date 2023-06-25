@@ -46,10 +46,11 @@ An effective supply chain manager - Right from sourcing supply of material at th
                   <p>SS Global  is proud to be the importer of these great organic and natural products into India.
 We are dedicated to bringing quality healthy and safe alternatives for people’s everyday needs.</p>
 					<ul>
-						<li>Stone</li>
-						<li>Grains</li>
-						<li>Spices</li>
-						<li>Rice</li>
+						<li><a href="./stones.php">Stone</a> </li>
+                  <li><a href="./plastic.php">Plastic</a> </li>
+						<li><a href="./grains.php">Grains</a> </li>
+						<li><a href="./spices.php">Spices</a> </li>
+						<li><a href="./Rice.php">Rice</a> </li>
 					</ul>
          </div>
       </div>

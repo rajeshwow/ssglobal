@@ -86,6 +86,18 @@ SS Globals
                 </li>
 
                 <li class="dropdown">
+                    <a class="fromLeft" href="#" class="dropdown-toggle" data-toggle="dropdown">Plastic</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="./plastic.php">PP (Poly Propylene)</a></li>
+                        <li><a href="./plastic.php">PE (Poly Ethylene)</a></li>
+                        <li><a href="./plastic.php">HDPE (High Density Poly Ethylene)</a></li>
+                        <li><a href="./plastic.php">IDPE (Low-density Poly Ethylene)</a></li>
+                        
+                    </ul>
+                    </a>
+                </li>
+
+                <li class="dropdown">
                     <a class="fromLeft" href="#" class="dropdown-toggle" data-toggle="dropdown">Agro</a>
                     <ul class="dropdown-menu">
                         <!-- <li ><a class="navhead" href="" >Stones</a></li> -->

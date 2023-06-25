@@ -37,7 +37,7 @@ $("#teams").click(function() {
 $(document).ready(function() {
   let id = window.location.href.substring(window.location.href.indexOf('#') + 1);
       $("html, body").animate({
-            scrollTop: $("./grains.php/#"+id).offset().top - 100 
+            scrollTop: id ? $("./grains.php/#"+id).offset().top - 100 : 400
         }, 500);
 
 });

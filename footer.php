@@ -8,6 +8,11 @@
     <div class="new_footer_top">
         <div class="container">
             <div class="row">
+                <div class="container">
+                    <h1 style="text-align: center">Call us: <a href="tel:9928807439">+91 99288-07439</a> </h1>
+                </div>
+            </div>
+            <div class="row">
                 <div class="col-lg-3 col-md-6">
                     <div class="f_widget about-widget pl_70 wow fadeInLeft" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInLeft;">
                         <h3 class="f-title f_600 t_color f_size_18">Navigate</h3>
