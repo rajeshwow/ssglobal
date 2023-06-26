@@ -545,7 +545,7 @@ include 'header.php'?>
                                 Shiv Kumawat
                             </div>
                             <div class="pos">
-                                (Sales Expert)
+                                (Global CFO)
                             </div>
                             <div class="cnumber">
                                 <a target="_blank" href="tel:+91 8888590640">
